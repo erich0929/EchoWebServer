@@ -1,0 +1,24 @@
+{
+  "name": "EchoWebServer",
+  "version": "1.0.0",
+  "description": "EchoWebServer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erich0929/EchoWebServer.git"
+  },
+  "author": "erich0929",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erich0929/EchoWebServer/issues"
+  },
+  "homepage": "https://github.com/erich0929/EchoWebServer",
+  "dependencies": {
+    "connect": "^3.3.4",
+    "http": "0.0.0",
+    "path": "^0.11.14"
+  }
+}
